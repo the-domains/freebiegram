@@ -1,0 +1,28 @@
+name: freebiegram
+favicon: null
+layout_spectrum: 0.9568305956199765
+typography_spectrum: 0.10294597921893
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.21250095078721642
+  lightness: 0.9296805462799966
+  saturation: 0.9601102492306381
+  rhythmicContrast: 0.13483925396576524
+purpose: []
